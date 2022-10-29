@@ -1,0 +1,22 @@
+{
+    "name": "dans/php-framewor",
+    "description": "just a simple framework",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dans\\PhpFramewor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dan ruitor",
+            "email": "druiyot@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "latte/latte": "3.0.x-dev",
+        "bramus/router": "~1.6"
+    }
+}

@@ -1,0 +1,6 @@
+<?php
+
+$modules = [
+    'home' => 'home',
+    // 
+];
